@@ -1,6 +1,6 @@
 {
-    "use_proxy": true,
-    "complete_task": false,
+    "use_proxy": false,
+    "complete_task": true,
     "play_games": ["clayball", "stack"],
     "clayball_score": [15, 160],
     "play_game": true,
