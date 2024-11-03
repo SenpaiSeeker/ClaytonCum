@@ -4,7 +4,7 @@
     "play_games": ["clayball", "stack", "1024"],
     "clayball_score": [15, 160],
     "play_game": true,
-    "game_ticket_to_play": 2,
+    "game_ticket_to_play": 100,
     "account_delay": 5,
     "countdown_loop": 3800 
 }
